@@ -1,0 +1,19 @@
+{
+  "name": "genpark-fir-filter-windowed-sinc-design-skill",
+  "version": "1.0.0",
+  "description": "Finite Impulse Response (FIR) linear-phase filter design using windowed ideal sinc kernels",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "fir-filter",
+    "windowed-sinc",
+    "hamming-window",
+    "linear-phase",
+    "dsp",
+    "digital-filters",
+    "python-standard-library",
+    "agent-skills",
+    "spectral-shaping",
+    "filter-design"
+  ]
+}
