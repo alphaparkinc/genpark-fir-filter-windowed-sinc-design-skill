@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-fir-filter-windowed-sinc-design-skill"
+version = "1.0.0"
+description = "Finite Impulse Response (FIR) linear-phase filter design using windowed ideal sinc kernels"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
